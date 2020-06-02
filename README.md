@@ -35,6 +35,7 @@ Format: <player_name> wins the game
 
 ## Sample Input
 9
+
 62 5
 33 6
 49 9
